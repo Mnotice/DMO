@@ -1,3 +1,2 @@
-# DMO Link is below:
 
-[Click](https://github.com/Mnotice?tab=projects)
+[Click Me](https://github.com/Mnotice?tab=projects)
